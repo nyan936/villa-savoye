@@ -1,0 +1,8 @@
+# generated single-file build (index.html is committed for GitHub Pages)
+Villa-Savoye.html
+shots.json
+shots/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
